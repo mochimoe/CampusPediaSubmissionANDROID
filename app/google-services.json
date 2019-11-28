@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850240688461",
+    "firebase_url": "https://datasiswa-adc81.firebaseio.com",
+    "project_id": "datasiswa-adc81",
+    "storage_bucket": "datasiswa-adc81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850240688461:android:b93c449aa38dcbec4a2704",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.datasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850240688461-2eeapm28bvi12dlk0kuqpefm6phctpbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.picodiploma.datasiswa",
+            "certificate_hash": "3fa0d5135f0cfab733a610f0353edc1dc660481e"
+          }
+        },
+        {
+          "client_id": "850240688461-hp8v2b7hudo5aib05p0ra4b7odsvn7l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0i0iOdbBBtwPhk8kd7o7W2EZUdomv6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850240688461-hp8v2b7hudo5aib05p0ra4b7odsvn7l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

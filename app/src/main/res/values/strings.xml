@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Siswa</string>
+    <string name="update">Update</string>
+    <string name="hapus">Hapus</string>
+</resources>
